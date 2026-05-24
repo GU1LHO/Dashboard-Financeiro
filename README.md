@@ -29,17 +29,6 @@ Análise dos padrões de pagamento dos clientes: formas preferidas, prazos e eve
 🧠 Metodologia
 Coleta e Tratamento dos Dados
 
-Dados importados e transformados via Power Query
-Padronização de campos de localização para uso em mapas
-Normalização das categorias de formas de pagamento
-Tratamento de datas para análises temporais consistentes
-
-Modelagem
-
-Modelo estrela (Star Schema) com tabela fato de transações e dimensões de cliente, produto, localização, tempo e forma de pagamento
-Relacionamentos otimizados para cruzamentos entre as diferentes dimensões
-
-
 💡 Principais Insights que o Painel Revela
 
 Concentração geográfica: identifica regiões com maior e menor penetração, orientando esforços de expansão
@@ -49,4 +38,4 @@ Sazonalidade de faturamento: variações mensais que permitem planejamento mais 
 
 
 🛠️ Ferramentas Utilizadas
-FerramentaUsoPower BI DesktopConstrução do dashboard e visualizaçõesPower QueryETL, tratamento e transformação dos dadosDAXMedidas, KPIs e cálculos de negócioMapas do Power BIVisualização geográfica dos clientesExcelBase de dados fonte
+Ferramenta Uso Power BI Desktop Construção do dashboard e visualizações Power Query ETL, tratamento e transformação dos dados DAX Medidas, KPIs e cálculos de negócioMapas do Power BI Visualização geográfica dos clientes Excel Base de dados fonte
