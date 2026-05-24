@@ -18,10 +18,10 @@ Oferecer uma visão gerencial e estratégica do desempenho comercial, respondend
 📋 Visões e Análises do Painel
 💰 Faturamento
 Acompanhamento da receita por período com análise de tendência, permitindo identificar crescimento, queda ou estabilidade no desempenho comercial ao longo do tempo.
+
 📦 Análise de Produtos
 Visão do portfólio com foco em quais produtos mais contribuem para o faturamento — apoiando decisões de mix, precificação e priorização de estoque.
-🗺️ Distribuição Geográfica
-Mapa e análise regional mostrando onde estão concentrados os clientes e as vendas, essencial para estratégias de expansão, logística e esforço comercial por região.
+
 💳 Comportamento de Pagamento
 Análise dos padrões de pagamento dos clientes: formas preferidas, prazos e eventuais padrões de inadimplência — informações críticas para gestão de fluxo de caixa e políticas de crédito.
 
