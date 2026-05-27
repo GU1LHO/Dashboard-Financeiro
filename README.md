@@ -31,7 +31,7 @@ Coleta e Tratamento dos Dados
 
 ## 📸 Preview
 
-![Dashboard de Vendas](assets/WhatsApp Image 2026-05-27 at 08.43.53.jpeg])
+![Dashboard de Vendas](assets/'WhatsApp Image 2026-05-27 at 08.43.53.jpeg'])
 
 💡 Principais Insights que o Painel Revela
 
