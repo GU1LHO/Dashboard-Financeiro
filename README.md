@@ -29,6 +29,10 @@ Análise dos padrões de pagamento dos clientes: formas preferidas, prazos e eve
 🧠 Metodologia
 Coleta e Tratamento dos Dados
 
+## 📸 Preview
+
+![Dashboard de Vendas](assets/WhatsApp Image 2026-05-27 at 08.43.53.jpeg])
+
 💡 Principais Insights que o Painel Revela
 
 Concentração geográfica: identifica regiões com maior e menor penetração, orientando esforços de expansão
