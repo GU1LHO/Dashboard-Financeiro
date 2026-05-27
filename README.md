@@ -12,6 +12,17 @@ Dashboard gerencial com visão 360° do desempenho comercial — consolidando fa
 
 🔗 [Ver Dashboard ao Vivo](https://app.powerbi.com/view?r=eyJrIjoiZmMxNDc0NjktMDJkZi00MWI4LWJhZmYtNzk1ZTVhMmQ3YmRlIiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
 
+📌 Contexto do Projeto
+Uma empresa contratou um analista de dados com o objetivo de entender melhor seu desempenho comercial e o comportamento financeiro dos seus clientes. O desafio era transformar dados dispersos em uma visão clara e estratégica que respondesse às principais dúvidas do negócio.
+O dashboard foi desenvolvido para consolidar em um único painel as informações de faturamento, mix de produtos, formas de pagamento e comportamento de pagamento dos clientes — permitindo que gestores tomem decisões com mais segurança e agilidade.
+
+❓ Perguntas de Negócio
+Com o intuito de entender o desempenho comercial e o perfil financeiro dos clientes, as seguintes perguntas de negócio guiaram o desenvolvimento do projeto:
+1 - Qual é a evolução do faturamento ao longo do tempo?
+2 - Quais produtos mais contribuem para a receita da empresa?
+3 - Onde estão concentrados os clientes e as vendas geograficamente?
+4 - Quais são as formas de pagamento mais utilizadas pelos clientes?
+
 🎯 Objetivo
 Oferecer uma visão gerencial e estratégica do desempenho comercial, respondendo às perguntas mais críticas de um negócio: quanto estamos faturando, quais produtos impulsionam o resultado, onde estão nossos clientes e como eles estão pagando.
 
@@ -28,10 +39,6 @@ Análise dos padrões de pagamento dos clientes: formas preferidas, prazos e eve
 
 🧠 Metodologia
 Coleta e Tratamento dos Dados
-
-## 📸 Preview
-
-![Dashboard de Vendas](WhatsApp Image 2026-05-27 at 08.43.53.jpeg])
 
 💡 Principais Insights que o Painel Revela
 
