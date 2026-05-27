@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge" />
 </p>
 
-Dashboard gerencial com visão 360° do desempenho comercial — consolidando faturamento, mix de produtos, distribuição geográfica e comportamento de pagamento dos clientes em um único painel estratégico.
+Dashboard gerencial com visão 360° do desempenho comercial — consolidando faturamento, mix de produtos, formas de pagamento e comportamento de pagamento dos clientes em um único painel estratégico.
 
 🔗 [Ver Dashboard ao Vivo](https://app.powerbi.com/view?r=eyJrIjoiZmMxNDc0NjktMDJkZi00MWI4LWJhZmYtNzk1ZTVhMmQ3YmRlIiwidCI6IjdiNzZjYWM5LTBkYTQtNGNmZC1hZWY1LWEyNDgyNDI5NmYyMiJ9)
 
