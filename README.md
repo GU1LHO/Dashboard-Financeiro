@@ -27,7 +27,8 @@ Com o intuito de entender o desempenho comercial e o perfil financeiro dos clien
 Oferecer uma visão gerencial e estratégica do desempenho comercial, respondendo às perguntas mais críticas de um negócio: quanto estamos faturando, quais produtos impulsionam o resultado, onde estão nossos clientes e como eles estão pagando.
 
 📋 Visões e Análises do Painel
-![preview da imagem](images/dash.png)
+![Descrição](dash.png)
+
 💰 Faturamento
 Acompanhamento da receita por período com análise de tendência, permitindo identificar crescimento, queda ou estabilidade no desempenho comercial ao longo do tempo.
 
