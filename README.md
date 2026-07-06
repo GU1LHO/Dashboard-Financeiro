@@ -50,4 +50,4 @@ Sazonalidade de faturamento: variações mensais que permitem planejamento mais 
 
 
 🛠️ Ferramentas Utilizadas
-Ferramenta Uso Power BI Desktop Construção do dashboard e visualizações Power Query ETL, tratamento e transformação dos dados DAX Medidas, KPIs e cálculos de negócioMapas do Power BI Visualização geográfica dos clientes Excel Base de dados fonte
+Ferramenta Uso Power BI Desktop Construção do dashboard e visualizações Power Query ETL, tratamento e transformação dos dados DAX Medidas, KPIs e Excel Base de dados fonte
